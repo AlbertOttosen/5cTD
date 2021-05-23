@@ -1,0 +1,56 @@
+o------------o
+|  SATURDAY  |
+o------------o
+
+PC
+[X][X] draw + animate
+[X] script
+
+[] Draw Tower UI
+[X] Building/upgrading towers
+[X] Waves of enemies
+
+UI
+[X] lives
+[X] energy for buildings
+
+o----------o
+|  SUNDAY  |
+o----------o
+
+Enemies
+[] draw + animate
+[X] taking damage and dying
+[] - visible health bars
+
+Towers
+animate/script
+[X][X] unbuilt
+[X][X] BASIC
+[X][X] HAND
+[][] EYE
+[][] PYLON
+
+[X] Level design
+[] Tutorial section
+
+UPLOAD
+
+[] music
+
+o---------o
+|  EXTRA  |
+o---------o
+
+[] multiple levels
+[] - Level select menu
+
+[] -- smarter targeting
+[] - Better UI
+
+Animate Colors
+[X] - update PaletteController
+
+TUTORIAL
+[] -- unlock towers over time
+
